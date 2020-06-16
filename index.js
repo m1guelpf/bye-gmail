@@ -1,0 +1,1 @@
+window.location.host = 'app.hey.com'
