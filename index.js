@@ -1,1 +1,1 @@
-window.location.host = 'app.hey.com'
+window.location.href = 'https://app.hey.com'
